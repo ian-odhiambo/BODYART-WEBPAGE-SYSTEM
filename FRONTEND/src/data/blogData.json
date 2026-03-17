@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "artists-work/artist1-arm.jpg",
+    "description": "Intricate tribal arm sleeve showcasing traditional patterns blended with modern precision. Bold lines and deep shading create a timeless piece.",
+    "artist": "Kevin Odongo"
+  },
+  {
+    "id": 2,
+    "image": "artists-work/artist1-dragon.jpg",
+    "description": "Mythical dragon coiling around forearm with hyper-realistic scales and fiery breath. Perfect balance of detail and movement.",
+    "artist": "Ruth Apela"
+  },
+  {
+    "id": 3,
+    "image": "artists-work/artist2-floral.jpg",
+    "description": "Delicate floral mandala on ribcage with watercolor effect blending soft petals and sharp linework. Feminine yet powerful.",
+    "artist": "Chris Naykundi"
+  },
+  {
+    "id": 4,
+    "image": "piercings-work/piercing1-navel.jpg",
+    "description": "Industrial barbell navel piercing with gemstone accents. Clean healing and perfect placement for maximum impact.",
+    "artist": "Carlos Obara"
+  },
+  {
+    "id": 5,
+    "image": "artists-work/artist1-skull.jpg",
+    "description": "Neo-traditional skull with roses on calf. Vibrant colors and smooth shading create depth and movement.",
+    "artist": "Mathew wanderi"
+  },
+  {
+    "id": 6,
+    "image": "piercings-work/piercing1-face.jpg",
+    "description": "Multiple helix piercings with curved barbells and dangling charms. Edgy facial industrial look.",
+    "artist": "Kanaiza Mchoraji"
+  },
+  {
+    "id": 7,
+    "image": "artists-work/artist3-tribal.jpg",
+    "description": "Full back tribal piece covering shoulders and spine. Geometric patterns with cultural significance.",
+    "artist": "Nady Kimwala"
+  },
+  {
+    "id": 8,
+    "image": "piercings-work/piercing2-belly.png",
+    "description": "Double navel piercing with matching gemstones. Symmetrical placement for stunning midriff jewelry.",
+    "artist": "Kanaiza Mchoraji"
+  },
+  {
+    "id": 9,
+    "image": "piercings-work/piercing1-face.jpg",
+    "description": "Perfect jewellery that compliments blablablablabla nyef hjohgojojokgfjlgkjkgjpk",
+    "artist": "Mtukufu Rais"
+  }
+]

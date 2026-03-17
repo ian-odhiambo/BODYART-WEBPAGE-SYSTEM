@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "iconType": "user",
+      "title": "ELITE TATTOO ARTISTS",
+      "description": "As one of the best tattoo shops in Manhattan, we host a highly skilled team of professional tattoo artists recognized for their creativity, precision, and passion for the craft. Each tattoo artist brings years of experience and a unique blend of traditional and modern techniques."
+    },
+    {
+      "id": 2,
+      "iconType": "styles",
+      "title": "VERSATILE TATTOO STYLES",
+      "description": "Whether you want black-and-gray realism, fine-line minimalism, neo-traditional, or geometric tattoos, we have an artist for every style. Our artists are constantly evolving their techniques and staying ahead of the game."
+    },
+    {
+      "id": 3,
+      "iconType": "safety",
+      "title": "HYGIENE & SAFETY FIRST",
+      "description": "Our studio prioritizes cleanliness and client safety with strict sterilization and sanitization protocols. We use single-use needles, hospital-grade disinfectants, and meticulous hygiene practices to create a safe and comfortable environment."
+    },
+    {
+      "id": 4,
+      "iconType": "location",
+      "title": "PRIME LOCATION IN KIMATHI STREETS",
+      "description": "Located in the heart of New York City, offering an elevated tattoo experience in one of the most vibrant cities in the world. We're proud to be one of the most respected tattoo and piercing shops NYC has to offer, with a modern and creative atmosphere."
+    },
+    {
+      "id": 5,
+      "iconType": "custom",
+      "title": "CUSTOM CREATIONS",
+      "description": "Every tattoo is a unique collaboration between artist and client, ensuring one-of-a-kind results. Whether you come in with a clear vision or just a rough idea, our tattoo artists will work closely with you to bring your concept to life."
+    }
+  ]
+}
