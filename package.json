@@ -1,6 +1,30 @@
 {
+  "name": "kanaiza-tatoo-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "cors": "^2.8.6",
-    "react-icons": "^5.6.0"
-  }
+    "object-assign": "^4.1.1",
+    "react": "^19.2.4",
+    "react-icons": "^5.6.0",
+    "vary": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+"build":"npm run build --prefix FRONTEND",
+"start":"npm run build --prefix FRONTEND && npm run start --prefix BACKEND"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-odhiambo/BODYART-WEBPAGE-SYSTEM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ian-odhiambo/BODYART-WEBPAGE-SYSTEM/issues"
+  },
+  "homepage": "https://github.com/ian-odhiambo/BODYART-WEBPAGE-SYSTEM#readme"
 }

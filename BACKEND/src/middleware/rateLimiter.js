@@ -21,6 +21,11 @@ import ratelimit from "../config/upstash.js";
 
 
 const rateLimiter = async (req, res, next) => {
+  // Skip rate limiting for static assets
+  if (req.path.startsWith('/assets/') || req.path.match(/\.(jpg|jpeg|png|gif|svg|ico|woff|woff2|ttf|eot)$/)) {
+    return next();
+  }
+
   try {
     // Use IP address instead of static key
     const identifier = req.ip;
