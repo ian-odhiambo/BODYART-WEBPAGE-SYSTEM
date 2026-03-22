@@ -1,8 +1,22 @@
-# Fix 404 Error on http://localhost:5001/
+# Render Deployment Fix - TODO
 
-## Tasks:
-- [x] Edit BACKEND/src/server.js to serve frontend static files and SPA catch-all for all environments (move outside NODE_ENV !== "production" block).
-- [ ] Restart the backend server.
-- [ ] Test http://localhost:5001/ loads the app and API endpoints work.
-- [ ] Clean up TODO.md if all done.
+## Status: 🚀 In Progress
 
+### 1. [✅] Update root package.json
+   - Add `install` script: `npm ci --prefix FRONTEND && npm ci --prefix BACKEND`
+   - Add `postinstall`: `npm run build --prefix FRONTEND`
+   - Update `start`: `npm run start --prefix BACKEND`
+
+### 2. [✅] Create/update README.md with Render instructions
+
+### 3. [ ] Commit & push changes
+
+### 4. [ ] Render config
+   - Service: Web Service
+   - Build Command: `npm install`
+   - Start Command: `npm start`
+   - Add env vars (MONGO_URI, Redis if used)
+
+### 5. [ ] Test deployment
+
+**Next action:** Edit package.json
