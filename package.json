@@ -13,9 +13,9 @@
   "devDependencies": {},
   "scripts": {
     "install": "npm ci --prefix FRONTEND && npm ci --prefix BACKEND",
-    "postinstall": "npm run build --prefix FRONTEND",
-    "build": "npm ci --prefix FRONTEND && npm run build --prefix FRONTEND",
-    "start": "npm run build && npm run start --prefix BACKEND"
+    "postinstall": "npm run build",
+    "build": "npm ci --prefix FRONTEND && npm ci --prefix BACKEND && npm run build --prefix FRONTEND",
+    "start": "npm run start --prefix BACKEND"
   },
   "repository": {
     "type": "git",
