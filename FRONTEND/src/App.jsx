@@ -1,4 +1,4 @@
-import "./Index.css";
+import "./index.css";
 import { Routes, Route } from 'react-router-dom';
 import MainLayOut from "./LAYOUTS/MainLayOut";
 import BlogPage from './PAGES/BlogPage';
