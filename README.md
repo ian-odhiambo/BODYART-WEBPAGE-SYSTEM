@@ -13,7 +13,7 @@ npm start    # Starts backend (serves frontend dist/ + API)
 ### Deploy to Render.com (Web Service)
 1. Connect GitHub repo.
 2. **Service Type:** Web Service
-3. **Build Command:** `npm install`
+3. **Build Command:** `npm run build` (now installs + builds frontend)
 4. **Start Command:** `npm start`
 5. **Environment Variables:**
    - `MONGO_URI` (required: your MongoDB connection string)
